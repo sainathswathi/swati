@@ -1,0 +1,48 @@
+body{
+    background-image:url("./images/image2.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h2{
+    color:green;
+}
+h1{
+    text-align:center;
+    color: rgb(217, 255, 0);
+    
+}
+.image-details-container {
+    overflow: hidden;
+  }
+  
+  .image-details-container img {
+    
+    height:500;
+    float:right;
+  }
+  
+  .details {
+    padding: 10px;
+  }
+  .about {
+    text-align:right;
+    
+  }
+  #para1 
+  {
+    color:white;
+  }
+  #para2
+  {
+    text-align:left;
+   color:pink;
+  }
+  #para3
+  {
+    color:cornsilk;
+  }
+  
+
+  
+
+  
